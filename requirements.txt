@@ -6,3 +6,4 @@ langchain-text-splitters
 sentence-transformers
 pinecone-client
 python-dotenv
+pinecone
